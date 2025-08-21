@@ -12,7 +12,9 @@ This app allows users to:
 - TypeScript
 - Tailwind CSS
 - LocalStorage API
-![App Screenshot](./src/assets/screenshot.png)
+
+
+![App Screenshot](src/assets/readmetodo.png)
 ## 🚀 Getting Started
 Clone the repository and run locally:
 
